@@ -1,1 +1,9 @@
 .env 
+genai2
+agentic_trading_system.egg-info
+venv/
+env/
+genai2/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
